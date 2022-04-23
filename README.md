@@ -5,7 +5,7 @@
 - [x]  Repository for the Project
 - [x]  Documenting the ideas in README.md
 - [x]  Pushing the gradle and project code in the repo
-- [x ]  Learn more about the Google translate API
+- [x]  Learn more about the Google translate API
 
 
 
