@@ -6,8 +6,8 @@
 - [x]  Documenting the ideas in README.md
 - [x]  Pushing the Gradle and project code in the repo
 - [x]  Learn more about the Google translate API
-- [ ]  Skelaton for the application
-- [ ]  Explore Flutter Widgets 
+- [x]  Skelaton for the application
+- [x]  Explore Flutter Widgets 
 
 
 
