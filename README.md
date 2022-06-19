@@ -8,7 +8,7 @@
 - [x]  Learn more about the Google translate API
 - [x]  Skelaton for the application
 - [x]  Explore Flutter Widgets 
-
-- [X] Chooseing Essential Flutter Widgets for the project 
+- [X]  Chooseing Essential Flutter Widgets for the project 
+- [X]  Project shifted to VS code 
 
 
