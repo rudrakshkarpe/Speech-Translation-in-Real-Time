@@ -10,3 +10,4 @@
 - [x]  Explore Flutter Widgets 
 - [X]  Chooseing Essential Flutter Widgets for the project 
 - [X]  Project shifted to VS code 
+- [X]  Project shifted to VS code 
