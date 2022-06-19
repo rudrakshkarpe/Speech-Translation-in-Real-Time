@@ -9,6 +9,6 @@
 - [x]  Skelaton for the application
 - [x]  Explore Flutter Widgets 
 
-- [ ] Chooseing Essential Flutter Widgets for the project 
+- [X] Chooseing Essential Flutter Widgets for the project 
 
 
