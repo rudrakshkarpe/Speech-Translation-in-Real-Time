@@ -11,4 +11,4 @@
 - [X]  Chooseing Essential Flutter Widgets for the project 
 - [X]  Project shifted to VS code 
 - [X]  Project set-up completed for Ramsha's Device
-- [X]  Daily checkout
+- [X]  Daily checkout ✅
