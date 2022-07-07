@@ -12,6 +12,6 @@
 - [X]  Project shifted to VS code 
 - [X]  Project set-up completed for Ramsha's Device
 
-- [X]  Daily checkout ✅
+## - [X]  Daily checkout ✅
 - [X]  Checkout by Ramsha
 - [X]  Checkout by Rudraksh
