@@ -15,5 +15,6 @@
 | Project set-up completed for Ramsha's Device| ✅ |
 
 ## Daily checkout ✅
-- [X]  Checkout by Rudraksh ✅
+- [X]  Checkout by Rudraksh 
 - [X]  Checkout by Ramsha ✅
+
