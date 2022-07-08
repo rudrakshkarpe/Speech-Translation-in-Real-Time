@@ -25,13 +25,12 @@ class _TranslationWidgetState extends State<TranslationWidget> {
 
   @override
   Widget build(BuildContext context) {
-    // final fromLanguageCode = Translations.getLanguageCode(widget.fromLanguage);
+    final fromLanguageCode = Translations.getLanguageCode(widget.fromLanguage);
     final toLanguageCode = Translations.getLanguageCode(widget.toLanguage);
 
     return FutureBuilder(
-      future: TranslationApi.translate(widget.message, toLanguageCode),
-      //future: TranslationApi.translate2(
-      //    widget.message, fromLanguageCode, toLanguageCode),
+      // future: TranslationApi.translate(widget.message, toLanguageCode),
+      future: TranslationApi.translate2(widget.message, fromLanguageCode, toLanguageCode),
       builder: (BuildContext context, AsyncSnapshot snapshot) {
         switch (snapshot.connectionState) {
           case ConnectionState.waiting:
