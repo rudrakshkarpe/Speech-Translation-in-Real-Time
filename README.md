@@ -13,9 +13,12 @@
 | Chooseing Essential Flutter Widgets for the project | ✅ |
 | Project shifted to VS code | ✅ |
 | Project set-up completed for Ramsha's Device| ✅ |
-| **Connect with Google Translate-API**| ✅ |
+| Updated translation_api.dart| ✅ |
+| updated drop_down_widgets.dart | ✅ |
+| updated required versions of plugins in pubsec.yaml| ✅ |
 | Desined structure for ```release V.01``` | ✅ |
 | All Functionalities Tested successfully for ```realease V.01``` | ✅ |
+| ```pre-release``` for  ```realease V.01``` released successfully | ✅ |
 
 ## Daily checkout ✅
 - [X]  Checkout by Rudraksh 
