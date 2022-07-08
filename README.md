@@ -15,6 +15,7 @@
 | Project set-up completed for Ramsha's Device| ✅ |
 | **Connect with Google Translate-API**| ✅ |
 | Desined structure for ```release V.01``` | ✅ |
+| All Functionalities Tested successfully for ```realease V.01``` | ✅ |
 
 ## Daily checkout ✅
 - [X]  Checkout by Rudraksh 
