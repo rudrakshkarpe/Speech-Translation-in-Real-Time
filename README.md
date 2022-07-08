@@ -24,7 +24,8 @@
 | Desined structure for ```release V.01``` | ✅ |
 | All Functionalities Tested successfully for ```realease V.01``` | ✅ |
 | ```pre-release``` for  ```realease V.01``` released successfully | ✅ |
-| fluuter-bundle generated for  ```realease V.01``` released successfully | ✅ |
+| flutter-bundle generated for  ```realease V.01``` released successfully | ✅ |
+| ```realease V.01``` **shipped successfully** | ✅ |
 
 
 
