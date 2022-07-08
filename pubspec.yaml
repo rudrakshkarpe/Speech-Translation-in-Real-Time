@@ -11,7 +11,7 @@ dependencies:
   cupertino_icons: ^1.0.0
 
   # Allows Google Translate without billing
-  translator: ^0.1.5
+  translator: ^0.1.7 
 
   # Unescape html characters
   html_unescape: ^1.0.2
