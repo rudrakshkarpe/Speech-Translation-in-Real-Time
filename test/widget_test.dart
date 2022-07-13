@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:speech_transaltion_in_realtime/main.dart';
+import "package:speech_transaltion_in_realtime/main.dart";
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
