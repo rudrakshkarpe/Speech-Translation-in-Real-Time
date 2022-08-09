@@ -5,7 +5,7 @@
 - ```release V.01``` provides the facility to translate real-time chats into all the languages supported by Google Translate
 - In the upcoming ```release V.02``` we are looking forward to providing real-time Speech Translation Support.
 
----
+
 
 | ```release V.01``` |     Release Date       | 20/07/2022 |
 | :---------------- | :--------- | :---: |
