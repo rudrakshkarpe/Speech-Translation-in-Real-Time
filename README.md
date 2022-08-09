@@ -9,7 +9,7 @@
 
 | ```release V.01``` |     Release Date       | 20/07/2022 |
 | :---------------- | :--------- | :---: |
-| ```release V.0.02```| Upcoming Release   | November 2022 |
+| ```release V.02```| Upcoming Release   | November 2022 |
 
 
 <!-- ## Tasks: 
